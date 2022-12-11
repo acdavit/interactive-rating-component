@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://interactive-rating-component-acdavit.netlify.app/)
-- Live Site URL: [Add live site URL here](https://github.com/acdavit/interactive-rating-component)
+- Solution URL: [Click Here](https://github.com/acdavit/interactive-rating-component)
+- Live Site URL: [Click Here](https://interactive-rating-component-acdavit.netlify.app/)
 
 ### Built with
 
