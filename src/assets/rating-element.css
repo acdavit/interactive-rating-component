@@ -1,0 +1,61 @@
+
+
+#star{
+    padding: 13.33px;
+    width: 13.96px;
+    height: 13.33px;
+    background: #262E38;
+    border-radius: 50%;
+}
+
+#rate > h1{
+    font-family: 'Overpass';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+#rate > p{
+    font-family: 'Overpass';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 157%;
+    color: #969FAD;
+}
+
+#buttons{
+    width: 100%;
+    margin: 24px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (min-width: 428px){
+    #star{
+        padding: 16px;
+        width: 16.75px;
+        height: 16px;
+        background: #262E38;
+        border-radius: 50%;
+    }
+
+    #rate > h1{
+        font-size: 28px;
+        line-height: 35px;
+        margin-top: 30px;
+        margin-bottom: 7px;
+    }
+
+    #rate > p{
+        margin-top: 7px;
+        font-size: 15px;
+        line-height: 160%;
+    }
+    #buttons{
+        margin-bottom: 32px;
+    }
+}
